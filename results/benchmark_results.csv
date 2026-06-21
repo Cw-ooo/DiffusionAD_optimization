@@ -1,0 +1,6 @@
+Metric,Baseline (Before),Optimized (After)
+Dataset Initialization Time (sec),,
+Total Training Time (Batch 1),,
+Peak GPU Mem (Batch 1),,
+Total Training Time (Batch 2),,
+Peak GPU Mem (Batch 2),,
